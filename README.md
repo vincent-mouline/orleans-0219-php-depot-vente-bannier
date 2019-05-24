@@ -1,6 +1,8 @@
-Projet 2 Wild Code School .
+# Projet d'étude 2 : Réalisation d'un site vitrine multipage en POO
 
-L'objectif de ce projet fictif est de faire une refonte du site marchand du dépôt vente Bannier.
+Réalisation en 5 semaines d'une refonte du site du dépôt vente bannier (projet fictif). 
+Ce site a été réalisé en équipe durant la formation.
 
-En équipe, ce projet sera réalisé en 5 semaines, du début de projet (création backlog, wireframe, entretiens client) jusqu'a sa livraison fictive. 
-
+Conception : entretien client, backlog, maquette UX / UI
+Intégration : optimisation et retouche d'images, design responsive
+Développement : conception BDD, SQL, organisation du code avec l'architecture MVC en PHP
